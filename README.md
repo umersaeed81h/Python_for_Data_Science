@@ -86,35 +86,35 @@ https://www.facebook.com/umersaeed81<br>
   - 8.2 [for loop](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#8.2-for-loop)
   
 
-- [**Chapter 9: Python File Handling**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html)
+- [**Chapter 9: Python File Handling**](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#Chapter-9:-Python-File-Handling)
 
 
 
 
-  - 9.1 [Introduction](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.1-Introduction)
-  - 9.2 [Import Library for Path and File Management](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.2-Import-Library-for-Path-and-File-Management)
-  - 9.3 [Get working Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.3-Get-working-Directory)
-  - 9.4 [Change working Path](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.4-Change-working-Path)
-  - 9.5 [List Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.5-List-Current-Directory)
-  - 9.6 [Make a new Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.6-Make-a-new-Directory-in-Current-Directory)
-  - 9.7 [Delete Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.7-Delete-Directory-in-Current-Directory)
-  - 9.8 [Rename Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.8-Rename-Directory-in-Current-Directory)
-  - 9.9 [Rename File](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.9-Rename-File)
-  - 9.10 [stat in os](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.10-stat-in-os)
-  - 9.11 [walk](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.11-walk)
-  - 9.12 [Exists Path](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.12-Exists-Path)
-  - 9.13 [isdir](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.13-isdir)
-  - 9.14 [isfile](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.14-isfile)
+  - 9.1 [Introduction](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.1-Introduction)
+  - 9.2 [Import Library for Path and File Management](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.2-Import-Library-for-Path-and-File-Management)
+  - 9.3 [Get working Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.3-Get-working-Directory)
+  - 9.4 [Change working Path](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.4-Change-working-Path)
+  - 9.5 [List Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.5-List-Current-Directory)
+  - 9.6 [Make a new Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.6-Make-a-new-Directory-in-Current-Directory)
+  - 9.7 [Delete Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.7-Delete-Directory-in-Current-Directory)
+  - 9.8 [Rename Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.8-Rename-Directory-in-Current-Directory)
+  - 9.9 [Rename File](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.9-Rename-File)
+  - 9.10 [stat in os](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.10-stat-in-os)
+  - 9.11 [walk](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.11-walk)
+  - 9.12 [Exists Path](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.12-Exists-Path)
+  - 9.13 [isdir](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.13-isdir)
+  - 9.14 [isfile](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.14-isfile)
   - 9.15 [Python script to rename a folder if the folder name similar to line in a text file to that exact line](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.15-Python-script-to-rename-a-folder-if-the-folder-name-similar-to-line-in-a-text-file-to-that-exact-line)
-  - 9.16 [Available Options in os](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.16-Available-Options-in-os)
+  - 9.16 [Available Options in os](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.16-Available-Options-in-os)
 
 
-- [**Chapter 10: Python Math Library**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
-  - 10.1 [Import Library for Math Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.1-Import-Library-for-Math-Functions)
-  - 10.2 [Power and Logarithmic Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.2-Power-and-Logarithmic-Functions)
-  - 10.3 [Trigonometric Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.3-Trigonometric-Functions)
-  - 10.4 [Number-theoretic and representation functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.4-Number-theoretic-and-representation-functions)
-  - 10.5 [Constants](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.5-Constants)
-  - 10.6 [Special functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#10.6-Special-functions)
+- [**Chapter 10: Python Math Library**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html)
+  - 10.1 [Import Library for Math Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.1-Import-Library-for-Math-Functions)
+  - 10.2 [Power and Logarithmic Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.2-Power-and-Logarithmic-Functions)
+  - 10.3 [Trigonometric Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.3-Trigonometric-Functions)
+  - 10.4 [Number-theoretic and representation functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.4-Number-theoretic-and-representation-functions)
+  - 10.5 [Constants](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.5-Constants)
+  - 10.6 [Special functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.6-Special-functions)
 
 
