@@ -105,11 +105,11 @@ https://www.facebook.com/umersaeed81<br>
   - 9.12 [Exists Path](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.12-Exists-Path)
   - 9.13 [isdir](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.13-isdir)
   - 9.14 [isfile](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.14-isfile)
-  - 9.15 [Python script to rename a folder if the folder name similar to line in a text file to that exact line](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#9.15-Python-script-to-rename-a-folder-if-the-folder-name-similar-to-line-in-a-text-file-to-that-exact-line)
+  - 9.15 [Python script to rename a folder if the folder name similar to line in a text file to that exact line](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.15-Python-script-to-rename-a-folder-if-the-folder-name-similar-to-line-in-a-text-file-to-that-exact-line)
   - 9.16 [Available Options in os](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#9.16-Available-Options-in-os)
 
 
-- [**Chapter 10: Python Math Library**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html)
+- [**Chapter 10: Python Math Library**](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#Chapter-10:-Python-Math-Library)
   - 10.1 [Import Library for Math Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.1-Import-Library-for-Math-Functions)
   - 10.2 [Power and Logarithmic Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.2-Power-and-Logarithmic-Functions)
   - 10.3 [Trigonometric Functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.3-Trigonometric-Functions)
