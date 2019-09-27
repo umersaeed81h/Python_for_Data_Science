@@ -118,3 +118,12 @@ https://www.facebook.com/umersaeed81<br>
   - 10.6 [Special functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.6-Special-functions)
 
 
+
+
+
+
+
+
+
+
+http://htmlpreview.github.io/ 
