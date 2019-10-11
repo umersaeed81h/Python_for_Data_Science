@@ -1,10 +1,10 @@
  <img src="https://www.python.org/static/img/python-logo.png" alt="Smiley face" align="left">
- <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
+ 
 
 #  Umer Saeed    
 
 <p class="small"><font size="10">
-Sr. RF Planning and Optimization Engineer<br>
+Sr. RF Planning and Optimization Engineer<br> <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
 BSc Telecommunications Engineering, MS Data Science<br>
 F2017313014@umt.edu.pk<br>
 https://www.linkedin.com/in/engumersaeed/<br>
