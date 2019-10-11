@@ -1,4 +1,4 @@
- <img src="https://www.python.org/static/img/python-logo.png" alt="Smiley face" align="center">
+
  
 
 #  Umer Saeed    <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
@@ -19,6 +19,8 @@ https://www.facebook.com/umersaeed81<br>
 
 <h3 align="center">Table of Contents</h3>
 
+ <img src="https://www.python.org/static/img/python-logo.png" alt="Smiley face" align="center">
+ 
 - [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#Chapter-1:-Introduction-to-Python)
 
   - 1.1 [Programming basics](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#1.1-Programming-basics)
