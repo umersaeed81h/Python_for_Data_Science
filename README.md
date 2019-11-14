@@ -172,10 +172,10 @@ https://www.facebook.com/umersaeed81<br>
 
 
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
- - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
- - 12.2 [ Infinite iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.2-Infinite-iterators)
- - 12.3 [Iterators terminating on the shortest input sequence](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.3-Iterators-terminating-on-the-shortest-input-sequence)
- - 12.4 [Combinatoric iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.4-Combinatoric-iterators)
+  - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
+  - 12.2 [ Infinite iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.2-Infinite-iterators)
+  - 12.3 [Iterators terminating on the shortest input sequence](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.3-Iterators-terminating-on-the-shortest-input-sequence)
+  - 12.4 [Combinatoric iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.4-Combinatoric-iterators)
 
 
 
