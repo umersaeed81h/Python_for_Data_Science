@@ -178,7 +178,6 @@ https://www.facebook.com/umersaeed81<br>
   - 12.4 [Combinatoric iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.4-Combinatoric-iterators)
 
 
-
 <img src="https://numpy.org/_static/numpy_logo.png" alt="Smiley face" align="center">
 
 - [**Chapter 13: Numpy**]()
