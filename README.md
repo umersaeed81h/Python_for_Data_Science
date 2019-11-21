@@ -169,6 +169,7 @@ https://www.facebook.com/umersaeed81<br>
   - 11.40 [Data manipulations](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.40-Data-manipulations)
   - 11.41 [Data Frame Formatting in Pandas](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.41-Data-Frame-Formatting-in-Pandas)
   - 11.42 [Time Series Analysis](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.42-Time-Series-Analysis)
+- [**Chapter 11: Data Frame in Python(Additional_Notes)**](https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Chapter11_Additional_Notes.html)
 
 
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
@@ -179,7 +180,7 @@ https://www.facebook.com/umersaeed81<br>
 
 
 
-- [**Chapter 11: Data Frame in Python(Additional_Notes)**](https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Chapter11_Additional_Notes.html)
+
 
 <img src="https://numpy.org/_static/numpy_logo.png" alt="Smiley face" align="center">
 
