@@ -242,4 +242,12 @@ https://www.facebook.com/umersaeed81<br>
 |42. | [Weather4.csv]()|Daily Weather Data Set|
 |43. | [Weather5.csv]()|Daily Weather Data Set|
 |44. | [Weather6.csv]()|Daily Weather Data Set|
+|45. | [Handedness.csv]()|General Information Data Set|
+|46. | [GroupBy.csv]()|Weather Data Set of Pakistan|
+|47. | [DupDS.csv]()|Students Data Set|
+|48. | [Company.xlsx]| FB, Google & MS Price Data Set|
+|49. | [Company1.xlsx]| FB, Google & MS Price Data Set|
+
+
+
 
