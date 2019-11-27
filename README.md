@@ -196,10 +196,10 @@ https://www.facebook.com/umersaeed81<br>
 
 
 
-| Filename | Description |
-| :---         |     :---:      |
-| git status   | git status     |
-| git diff     | git diff       | 
+|Sr No.| Filename | Description |
+|:---  | :---      |     :---:   |
+|1.    | git status   | git status  |
+|2.    | git diff     | git diff    | 
 
 
 
