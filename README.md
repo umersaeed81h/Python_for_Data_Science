@@ -226,11 +226,20 @@ https://www.facebook.com/umersaeed81<br>
 |26. | [Gender.csv]()|Gender Information Data Set|
 |27. | [titanic.csv]()|Titanic Data Set|
 |28. | [KPK_Weather.csv]()|KPK Weather Data Set|
-
-
-
-
-
-
-
+|29. | [Punjab_Weather.csv]()|Punjab Weather Data Set|
+|30. | [WTemData.csv]()|Weather Data Set|
+|31. | [WWSData.csv]()|Weather Data Set|
+|32. | [Math.txt]()|Math Marks of the Students Data Set|
+|33. | [ListStu.txt]()|Students Information Data Set|
+|34. | [Listage.txt]()|Students Age Data Set|
+|35. | [Scopus_1870_1898.csv]()|Scopus Research Paper Data Set|
+|36. | [Scopus_1901-1925.csv]()|Scopus Research Paper Data Set|
+|37. | [Scopus_1926-1950.csv]()|Scopus Research Paper Data Set|
+|38. | [Student1.csv]()|Student Data Set|
+|39. | [Student2.csv]()|Student Data Set|
+|40. | [Student3.csv]()|Student Data Set|
+|41. | [Weather3.csv]()|Daily Weather Data Set|
+|42. | [Weather4.csv]()|Daily Weather Data Set|
+|43. | [Weather5.csv]()|Daily Weather Data Set|
+|44. | [Weather6.csv]()|Daily Weather Data Set|
 
