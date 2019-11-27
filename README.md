@@ -196,7 +196,10 @@ https://www.facebook.com/umersaeed81<br>
 
 
 
-
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 
