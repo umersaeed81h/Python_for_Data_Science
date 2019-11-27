@@ -245,8 +245,35 @@ https://www.facebook.com/umersaeed81<br>
 |45. | [Handedness.csv]()|General Information Data Set|
 |46. | [GroupBy.csv]()|Weather Data Set of Pakistan|
 |47. | [DupDS.csv]()|Students Data Set|
-|48. | [Company.xlsx]| FB, Google & MS Price Data Set|
-|49. | [Company1.xlsx]| FB, Google & MS Price Data Set|
+|48. | [Company.xlsx]()| FB, Google & MS Price Data Set|
+|49. | [Company1.xlsx]()| FB, Google & MS Price Data Set|
+|50. | [rep.csv]()| Student Final Degredd Data Set|
+|51. | [maybe.csv]()|Year of Publish Respearch Paper|
+|52. | [AAPL.csv]()|Apple Data Set|
+|53. | [Sale.txt]()|Sale Data Set|
+|54. | [AAPLwd.csv]()|Apple Data Set without Date Information|
+|55. | [AAPLus.csv]()|Apple US Data Set without Date Information|
+|56. | [AAPLpk.csv]()|Apple Pakistan Data Set without Date Information|
+|57. | [AAPLusaeed.csv]()|Apple Data Set without Date Information|
+|58. | [date_data.txt]()|Date Data|
+|59. | [date_data_time.txt]()|Date & Time Data|
+|60. | [ind_data.csv]()|Volume Data Set|
+|61. | [ts_ds.csv]()|Volume Data Set|
+|62. | [TZH.csv]()|Time Zone Handling Data Set|
+|63. | [Karachi.csv]()|Time Zone Handling Data Set|
+|64. | [Istanbul.csv]()|Time Zone Handling Data Set|
+|65. | [Cell_H_O.csv]()|Cell Hourly Data Set|
+|66. | [Cell_H.csv]()|Cell Hourly Data Set|
+
+
+
+
+
+
+
+
+
+
 
 
 
