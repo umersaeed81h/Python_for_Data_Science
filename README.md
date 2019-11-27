@@ -207,7 +207,9 @@ https://www.facebook.com/umersaeed81<br>
 |7.    | [WHO_ex.xlsx]()         | WHO Data in xlsx Format|
 |8.    | [Weather_subject.xlsx]() | Multi tab xlsx File|
 |9.    | [KPK_Weather.prn]()      | Fixed-width formatted File contanis KPK Weather Data |
-
+|10.   | [WHO_csv.csv]()          | WHO Data in csv Format|
+|11.   | [DateIssue.csv]()        | Daily Weather Data|
+|12.  | [Scopus_1926-1950.csv]() | Scopus Research Papers Data Set|
 
 
 
