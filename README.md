@@ -216,6 +216,20 @@ https://www.facebook.com/umersaeed81<br>
 |16. | [XXXX.txt]()| Technology Data Set|
 |17. | [Missing_Values_Handling.csv]()|Missing Values Data Set|
 |18. | [Weather2.csv]()|Daily Weather Data Set|
+|19. | [Stocks.csv]()| Apple Stocked Data Set|
+|20. | [Stocks_ex.xlsx]()|Apple Stocked Data Set in xlsx Format|
+|21. | [Replace_DS.csv]()|illogical  values Data Set|
+|22. | [Replace_DS1.csv]()|illogical  values Data Set|
+|23. | [Replace_DS2.csv]()|illogical  values Data Set|
+|24. | [Replace_DS3.csv]()|illogical  values Data Set|
+|25. | [List.csv]()|Student Results Data Set|
+|26. | [Gender.csv]()|Gender Information Data Set|
+|27. | [titanic.csv]()|Titanic Data Set|
+|28. | [KPK_Weather.csv]()|KPK Weather Data Set|
+
+
+
+
 
 
 
