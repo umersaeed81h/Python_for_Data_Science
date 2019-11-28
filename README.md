@@ -23,7 +23,7 @@ https://www.facebook.com/umersaeed81<br>
 
 I am deeply thankful to my advisor, [Dr. Shahid Mahmood Awan](https://www.linkedin.com/in/shahidmawan/) and [Dr. Bilal Wajid](https://www.linkedin.com/in/dr-bilal-wajid-98949276/) for his inspiration and guidance throughout my studies at the [Department of Information System](https://sbe.umt.edu.pk/iss1/home.aspx), [School of Business and Economics](https://sbe.umt.edu.pk/), [University of Management & Technology](www.umt.edu.pk). In the past 2 Years, his invaluable support and directions always helped me improve professional and academic skills. It has been an honor being his student.
 
-I am very grateful to my friends [Mr. Irfan Kareem](https://www.linkedin.com/in/irfan-kareem-a89ba021/) , [Muneeb Ul Haque](https://www.linkedin.com/in/muneeb-ul-haque-86551728/), [Mansoor Waheed](https://www.linkedin.com/in/mansoor-waheed-26925021/) & [AbdulRehman Azam](https://www.linkedin.com/in/areh-azam/) for their friendships and helps
+I am very grateful to my friends [Mr. Irfan Kareem](https://www.linkedin.com/in/irfan-kareem-a89ba021/) , [Muneeb Ul Haque](https://www.linkedin.com/in/muneeb-ul-haque-86551728/), [Mansoor Waheed](https://www.linkedin.com/in/mansoor-waheed-26925021/), [Bilal Iqbal](https://www.linkedin.com/in/bilal-iqbal-5354a324/) & [AbdulRehman Azam](https://www.linkedin.com/in/areh-azam/) for their friendships and helps
  
 <h1 align="center">Python for Data Science</h1>
 
