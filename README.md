@@ -183,7 +183,7 @@ https://www.facebook.com/umersaeed81<br>
 - [**Chapter 13: Numpy**]()
   - [in progress]()
 
-- [**Chapter 14: Matplotlib **]()
+- [**Chapter 14: Matplotlib**]()
   - [in progress]()
 
 
