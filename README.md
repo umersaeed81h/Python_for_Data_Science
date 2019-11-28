@@ -15,6 +15,11 @@ https://www.facebook.com/umersaeed81<br>
 
  14-Aug-2019 
  
+# Dedication
+
+- I would like to dedicate my dissertation to my mother, my father and my wife.
+
+ 
 <h1 align="center">Python for Data Science</h1>
 
 [<h2 align="center">Table of Contents</h2>](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html)
