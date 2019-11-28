@@ -17,7 +17,7 @@ https://www.facebook.com/umersaeed81<br>
  
 # Dedication
 
-- I would like to dedicate my dissertation to my mother, my father and my wife.
+- I would like to dedicate my dissertation to my father,my mother, my wife and my dougter.
 
 # Acknowledgments
 
