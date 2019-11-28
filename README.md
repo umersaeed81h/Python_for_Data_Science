@@ -25,7 +25,7 @@ I am deeply thankful to my advisor, [Dr. Shahid Mahmood Awan](https://www.linked
 
 I am very grateful to my friends [Mr. Irfan Kareem](https://www.linkedin.com/in/irfan-kareem-a89ba021/) , [Muneeb Ul Haque](https://www.linkedin.com/in/muneeb-ul-haque-86551728/), [Mansoor Waheed](https://www.linkedin.com/in/mansoor-waheed-26925021/), [Bilal Iqbal](https://www.linkedin.com/in/bilal-iqbal-5354a324/) & [AbdulRehman Azam](https://www.linkedin.com/in/areh-azam/) for their friendships and helps
 
-Finally, I would like to thank my father Muhammad Hafeez Ahmed, my mother Shahazad Yaseem, my wife Hajra Azam and my dougter Khansa Saeed for their love, support, and encouragement.
+Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**], my [**mother Shahazad Yaseem**], my wife [**Hajra Azam**] and my dougter [**Khansa Saeed**] for their love, support, and encouragement.
  
 <h1 align="center">Python for Data Science</h1>
 
