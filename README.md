@@ -21,7 +21,7 @@ https://www.facebook.com/umersaeed81<br>
 
 # Acknowledgments
 
-I am deeply thankful to my advisor, [Dr. Shahid Mahmood Awan](https://www.linkedin.com/in/shahidmawan/) and [Dr. Bilal Wajid](https://www.linkedin.com/in/dr-bilal-wajid-98949276/) for his inspiration and guidance throughout my studies at the [University of Management & Technology](www.umt.edu.pk). In the past 2 Years, his invaluable support and directions always helped me improve professional and academic skills. It has been an honor being his student.
+I am deeply thankful to my advisor, [Dr. Shahid Mahmood Awan](https://www.linkedin.com/in/shahidmawan/) and [Dr. Bilal Wajid](https://www.linkedin.com/in/dr-bilal-wajid-98949276/) for his inspiration and guidance throughout my studies at the [Department of Information System](https://sbe.umt.edu.pk/iss1/home.aspx), [School of Business and Economics] (https://sbe.umt.edu.pk/), [University of Management & Technology](www.umt.edu.pk). In the past 2 Years, his invaluable support and directions always helped me improve professional and academic skills. It has been an honor being his student.
 
  
 <h1 align="center">Python for Data Science</h1>
