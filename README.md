@@ -289,3 +289,6 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
 
 
 <a href="https://github.com/umersaeed81h/cc/blob/master/Istanbul.csv" download="Istanbul.csv">Time Zone Handling Data Set</a>
+
+<a href="Document.pdf" download="Document.pdf">Download the pdf</a>
+<a href="https://github.com/umersaeed81h/cc/blob/master/Istanbul.csv" download>
