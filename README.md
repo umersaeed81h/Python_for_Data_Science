@@ -8,9 +8,10 @@
 <p class="small"><font size="10">
 Sr. RF Planning and Optimization Engineer<br> 
 BSc Telecommunications Engineering, MS Data Science<br>
+</p></font
 [Facebook](https://www.facebook.com/umersaeed81)<br> 
 [github](https://github.com/umersaeed81h)<br>
-</p></font>
+>
 - [Email](F2017313014@umt.edu.pk)
 
  14-Aug-2019 
