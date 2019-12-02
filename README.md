@@ -5,8 +5,7 @@
  
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)   <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
-
-Sr. RF Planning and Optimization Engineer
+Sr. RF Planning and Optimization Engineer<br>
 BSc Telecommunications Engineering, MS Data Science
 <p class="small"><font size="10">
 Sr. RF Planning and Optimization Engineer<br> 
