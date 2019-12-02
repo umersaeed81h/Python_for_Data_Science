@@ -3,10 +3,10 @@
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)   <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
 
-Sr. RF Planning and Optimization Engineer<br>
-BSc Telecommunications Engineering, MS Data Science<br>
-[Facebook](https://www.facebook.com/umersaeed81)<br>
-[github](https://github.com/umersaeed81h)<br>
+[Sr. RF Planning and Optimization Engineer](https://www.facebook.com/umersaeed81)<br>
+[BSc Telecommunications Engineering, MS Data Science](https://github.com/umersaeed81h)<br>
+
+
 
 - [Email](F2017313014@umt.edu.pk)
 
