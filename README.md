@@ -1,6 +1,3 @@
-
-
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="center">
  
 
@@ -8,10 +5,10 @@
 <p class="small"><font size="10">
 Sr. RF Planning and Optimization Engineer<br> 
 BSc Telecommunications Engineering, MS Data Science<br>
-</p></font
+</p></font>
 [Facebook](https://www.facebook.com/umersaeed81)<br> 
 [github](https://github.com/umersaeed81h)<br>
->
+
 - [Email](F2017313014@umt.edu.pk)
 
  14-Aug-2019 
