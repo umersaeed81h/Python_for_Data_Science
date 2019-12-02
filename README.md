@@ -4,7 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="center">
  
 
-#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)    <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
+#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)(https://github.com/umersaeed81h)    <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Smiley face" align="right">
 
 <p class="small"><font size="10">
 Sr. RF Planning and Optimization Engineer<br> 
