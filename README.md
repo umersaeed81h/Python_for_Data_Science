@@ -182,7 +182,10 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.46 [Random Sampling](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Random%20Sampling.html)
   - 11.47 [Transpoe All the Tabs in Excel Sheet](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/TranspoeAlltheTabsinExcelSheet.html)
   - 11.48 [Interference Tracker](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/InterferenceTrackerParsing.html)
-
+  - 11.49 [DG Audit](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/DGAudit.html)
+  
+  
+  
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
   - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
   - 12.2 [ Infinite iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.2-Infinite-iterators)
