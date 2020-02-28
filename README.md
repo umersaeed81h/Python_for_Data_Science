@@ -208,76 +208,6 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - [in progress]()
 
 
-- [**Appendix-A:Data Sets**]()
-
-|Sr No.| Filename | Description |
-|:---  | :---      |     :---:   |
-|1.    | [Weather.csv](https://github.com/umersaeed81h/cc/blob/master/Weather.csv)   |<a href="https://github.com/umersaeed81h/cc/blob/master/Weather.csv" download="Weather.csv">Download Your Expense Report</a>|
-|2.    | [Weather_header.csv](https://github.com/umersaeed81h/cc/blob/master/Weather_header.csv)     | Daily Weather Data without Header Information    | 
-|3.    | [Weather1.csv](https://github.com/umersaeed81h/cc/blob/master/Weather1.csv)         |Daily Weather Data  |
-|4.    | [Family.csv](https://github.com/umersaeed81h/cc/blob/master/Family.csv)           | Family Education Data Set |
-|5.    | [check.csv](https://github.com/umersaeed81h/cc/blob/master/check.csv)            | Varibale Name for some variable is missing|
-|6.    | [chipotle.tsv]()         | tsv Format File |
-|7.    | [WHO_ex.xlsx](https://github.com/umersaeed81h/cc/blob/master/WHO_ex.xlsx)         | WHO Data in xlsx Format|
-|8.    | [Weather_subject.xlsx](https://github.com/umersaeed81h/cc/blob/master/Weather_subject.xlsx) | Multi tab xlsx File|
-|9.    | [KPK_Weather.prn](https://github.com/umersaeed81h/cc/blob/master/KPK_Weather.prn)      | Fixed-width formatted File contanis KPK Weather Data |
-|10.   | [WHO_csv.csv](https://github.com/umersaeed81h/cc/blob/master/WHO_csv.csv)          | WHO Data in csv Format|
-|11.   | [DateIssue.csv](https://github.com/umersaeed81h/cc/blob/master/DateIssue.csv)        | Daily Weather Data|
-|12.  | [Scopus_1926-1950.csv](https://github.com/umersaeed81h/cc/blob/master/Scopus_1926-1950.csv) | Scopus Research Papers Data Set|
-|13.  | [rep.csv](https://github.com/umersaeed81h/cc/blob/master/rep.csv) | Highest Degree Information|
-|14. | [egg_price.csv](https://github.com/umersaeed81h/cc/blob/master/egg_price.csv)| Daily Egg Price in Pakistan|
-|15. | [radj.csv](https://github.com/umersaeed81h/cc/blob/master/radj.csv)| Family Data Set|
-|16. | [XXXX.txt](https://github.com/umersaeed81h/cc/blob/master/GTRX.txt)| Technology Data Set|
-|17. | [Missing_Values_Handling.csv](https://github.com/umersaeed81h/cc/blob/master/Missing_Values_Handling.csv)|Missing Values Data Set|
-|18. | [Weather2.csv](https://github.com/umersaeed81h/cc/blob/master/Weather2.csv)|Daily Weather Data Set|
-|19. | [Stocks.csv](https://github.com/umersaeed81h/cc/blob/master/Stocks.csv)| Apple Stocked Data Set|
-|20. | [Stocks_ex.xlsx](https://github.com/umersaeed81h/cc/blob/master/Stocks_ex.xlsx)|Apple Stocked Data Set in xlsx Format|
-|21. | [Replace_DS.csv](https://github.com/umersaeed81h/cc/blob/master/Replace_DS.csv)|illogical  values Data Set|
-|22. | [Replace_DS1.csv](https://github.com/umersaeed81h/cc/blob/master/Replace_DS1.csv)|illogical  values Data Set|
-|23. | [Replace_DS2.csv](https://github.com/umersaeed81h/cc/blob/master/Replace_DS2.csv)|illogical  values Data Set|
-|24. | [Replace_DS3.csv](https://github.com/umersaeed81h/cc/blob/master/Replace_DS3.csv)|illogical  values Data Set|
-|25. | [List.csv](https://github.com/umersaeed81h/cc/blob/master/List.csv)|Student Results Data Set|
-|26. | [Gender.csv](https://github.com/umersaeed81h/cc/blob/master/Gender.csv)|Gender Information Data Set|
-|27. | [titanic.csv](https://github.com/umersaeed81h/cc/blob/master/titanic.csv)|Titanic Data Set|
-|28. | [KPK_Weather.csv](https://github.com/umersaeed81h/cc/blob/master/KPK_Weather.csv)|KPK Weather Data Set|
-|29. | [Punjab_Weather.csv](https://github.com/umersaeed81h/cc/blob/master/Punjab_Weather.csv)|Punjab Weather Data Set|
-|30. | [WTemData.csv](https://github.com/umersaeed81h/cc/blob/master/WTemData.csv)|Weather Data Set|
-|31. | [WWSData.csv](https://github.com/umersaeed81h/cc/blob/master/WWSData.csv)|Weather Data Set|
-|32. | [Math.txt](https://github.com/umersaeed81h/cc/blob/master/Math.txt)|Math Marks of the Students Data Set|
-|33. | [ListStu.txt](https://github.com/umersaeed81h/cc/blob/master/ListStu.txt)|Students Information Data Set|
-|34. | [Listage.txt](https://github.com/umersaeed81h/cc/blob/master/Listage.txt)|Students Age Data Set|
-|35. | [Scopus_1870_1898.csv](https://github.com/umersaeed81h/cc/blob/master/Scopus_1870_1898.csv)|Scopus Research Paper Data Set|
-|36. | [Scopus_1901-1925.csv](https://github.com/umersaeed81h/cc/blob/master/Scopus_1901-1925.csv)|Scopus Research Paper Data Set|
-|37. | [Scopus_1926-1950.csv](https://github.com/umersaeed81h/cc/blob/master/Scopus_1926-1950.csv)|Scopus Research Paper Data Set|
-|38. | [Student1.csv](https://github.com/umersaeed81h/cc/blob/master/Student1.csv)|Student Data Set|
-|39. | [Student2.csv](https://github.com/umersaeed81h/cc/blob/master/Student2.csv)|Student Data Set|
-|40. | [Student3.csv](https://github.com/umersaeed81h/cc/blob/master/Student3.csv)|Student Data Set|
-|41. | [Weather3.csv](https://github.com/umersaeed81h/cc/blob/master/Weather3.csv)|Daily Weather Data Set|
-|42. | [Weather4.csv](https://github.com/umersaeed81h/cc/blob/master/Weather4.csv)|Daily Weather Data Set|
-|43. | [Weather5.csv](https://github.com/umersaeed81h/cc/blob/master/Weather5.csv)|Daily Weather Data Set|
-|44. | [Weather6.csv](https://github.com/umersaeed81h/cc/blob/master/Weather6.csv)|Daily Weather Data Set|
-|45. | [Handedness.csv](https://github.com/umersaeed81h/cc/blob/master/Handedness.csv)|General Information Data Set|
-|46. | [GroupBy.csv](https://github.com/umersaeed81h/cc/blob/master/GroupBy.csv)|Weather Data Set of Pakistan|
-|47. | [DupDS.csv](https://github.com/umersaeed81h/cc/blob/master/DupDS.csv)|Students Data Set|
-|48. | [Company.xlsx](https://github.com/umersaeed81h/cc/blob/master/Company.xlsx)| FB, Google & MS Price Data Set|
-|49. | [Company1.xlsx](https://github.com/umersaeed81h/cc/blob/master/Company1.xlsx)| FB, Google & MS Price Data Set|
-|50. | [rep.csv](https://github.com/umersaeed81h/cc/blob/master/rep.csv)| Student Final Degredd Data Set|
-|51. | [maybe.csv](https://github.com/umersaeed81h/cc/blob/master/maybe.csv)|Year of Publish Respearch Paper|
-|52. | [AAPL.csv](https://github.com/umersaeed81h/cc/blob/master/AAPL.csv)|Apple Data Set|
-|53. | [Sale.txt](https://github.com/umersaeed81h/cc/blob/master/Sale.txt)|Sale Data Set|
-|54. | [AAPLwd.csv](https://github.com/umersaeed81h/cc/blob/master/AAPLwd.csv)|Apple Data Set without Date Information|
-|55. | [AAPLus.csv](https://github.com/umersaeed81h/cc/blob/master/AAPLus.csv)|Apple US Data Set without Date Information|
-|56. | [AAPLpk.csv](https://github.com/umersaeed81h/cc/blob/master/AAPLpk.csv)|Apple Pakistan Data Set without Date Information|
-|57. | [AAPLusaeed.csv](https://github.com/umersaeed81h/cc/blob/master/AAPLusaeed.csv)|Apple Data Set without Date Information|
-|58. | [date_data.txt]()|Date Data|
-|59. | [date_data_time.txt]()|Date & Time Data|
-|60. | [ind_data.csv](https://github.com/umersaeed81h/cc/blob/master/ind_data.csv)|Volume Data Set|
-|61. | [ts_ds.csv](https://github.com/umersaeed81h/cc/blob/master/ts_ds.csv)|Volume Data Set|
-|62. | [TZH.csv](https://github.com/umersaeed81h/cc/blob/master/TZH.csv)|Time Zone Handling Data Set|
-|63. | [Karachi.csv](https://github.com/umersaeed81h/cc/blob/master/Karachi.csv)|Time Zone Handling Data Set|
-|64. | [Istanbul.csv](https://github.com/umersaeed81h/cc/blob/master/Istanbul.csv)|Time Zone Handling Data Set|
-|65. | [Cell_H_O.csv](https://github.com/umersaeed81h/cc/blob/master/Cell_H_O.csv)|Cell Hourly Data Set|
-|66. | [Cell_H.csv](https://github.com/umersaeed81h/cc/blob/master/Cell_H.csv)|Cell Hourly Data Set|
 
 
 
@@ -287,11 +217,6 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
 
  - http://htmlpreview.github.io/ 
  - https://bitly.com/
-
-
-
-
-
 - https://www.youtube.com/watch?v=-HjLd_3ahCw
 - https://github.com/modin-project/modin
 
