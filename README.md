@@ -176,7 +176,8 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.40 [Data manipulations](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.40-Data-manipulations)
   - 11.41 [Data Frame Formatting in Pandas](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.41-Data-Frame-Formatting-in-Pandas)
   - 11.42 [Time Series Analysis](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html#11.42-Time-Series-Analysis)
-  - 11.43 [Additional Pandas Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Chapter11_Additional_Notes.html)
+  - 11.43 [Additional Pandas Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Chapter11_Additional_Notes.html)\
+  - 11.44 [Multi Index Header 2nd Generation Audit](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Multi_Index_Header_2nd_generation_Audit.html)
 
 
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
