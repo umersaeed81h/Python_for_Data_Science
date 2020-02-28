@@ -190,7 +190,8 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.54 [Excel File Merge Multi Tab Dost Muhammad](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeDostMuhammad.html)
   - 11.54 [Excel File Merge Multi Tab Tahir Input](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeMultiTabTahirInput.html)
   - 11.55 [Excel File Merge Multi Tab Tahir Output](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeMultiTabTahirOutput.html)
-
+  - 11.56 [Add Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/AdditionalPandasNotes0.html)
+  
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
   - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
   - 12.2 [ Infinite iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.2-Infinite-iterators)
