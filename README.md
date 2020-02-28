@@ -187,7 +187,8 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.51 [IOS Audit](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/IOSAudit.html)
   - 11.52 [IOS Scripts Input File](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/IOSScriptsInputFile.html)
   - 11.53 [2nd Generation Engineering Sheet](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/2ndGenerationEngineeringSheet.html)
-  - 11.54 [Excel File Merge Multi Tab DostMuhammad](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeDostMuhammad.html)
+  - 11.54 [Excel File Merge Multi Tab Dost Muhammad](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeDostMuhammad.html)
+  - 11.54 [Excel File Merge Multi Tab Tahir Input](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeMultiTabTahirInput.html)
   
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
   - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
