@@ -193,11 +193,76 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.56 [Add Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/AdditionalPandasNotes0.html)
   - 11.57 [Audit Old Tech](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/2nd_generation_Audit_method.html)
   
+  [Code-1](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-01.html)
+- Cell File: CSV - Date and Time in Different Column
+- Cluster File: CSV - Date and Time in Same Column
+
+Code-2
+- Cell File: CSV - Date and Time in Same Column
+- Cluster File: CSV - Date and Time in Different Column
+
+Code-3
+- Cell File: CSV - Date and Time in Different Column
+- Cluster File: xlsx - Date and Time in Different Column
+
+Code-4
+- Cell File: xlsx - Date and Time in Different Column
+- Cluster File: csv - Date and Time in Different Column  
+
+Code-5
+- Cell File: CSV - Date and Time in Different Column
+- Cluster File: CSV - Date and Time in Different Column  
+
+Code-6
+- Cell File: xlsx - Date and Time in Different Column
+- Cluster File: xlsx - Date and Time in Different Column 
+
+Code-7
+- Cell File: csv - Date and Time in Same Column
+- Cluster File: csv - Date and Time in Same Column 
+
+Code-8
+- Cell File: xlsx - Date and Time in Same Column
+- Cluster File: xlsx - Date and Time in Same Colum
+
+Code-9
+- Cell File: xlsx - Date and Time in Different Column
+- Cluster File: xlsx - Date and Time in Same Colum
+
+Code-10
+- Cell File: xlsx - Date and Time in Same Column
+- Cluster File: xlsx - Date and Time in Different Colum
+
+Code-11
+- Cell File: csv - Date and Time in Same Column
+- Cluster File: xlsx - Date and Time in Same Colum
+
+Code-12
+- Cell File: xlsx - Date and Time in Same Column
+- Cluster File: csv - Date and Time in Same Colum
+
+Code-13
+- Cell File: csv - Date and Time in Different Column
+- Cluster File: xlsx - Date and Time in Same Colum
+
+Code-14
+- Cell File: csv - Date and Time in Same Column
+- Cluster File: xlsx - Date and Time in Different Colum
+
+Code-15
+- Cell File: xlsx - Date and Time in Different Column
+- Cluster File: csv - Date and Time in Same Colum
+
+Code-16
+- Cell File: xlsx - Date and Time in Same Column
+- Cluster File: csv - Date and Time in Different Colum
+  
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
   - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
   - 12.2 [ Infinite iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.2-Infinite-iterators)
   - 12.3 [Iterators terminating on the shortest input sequence](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.3-Iterators-terminating-on-the-shortest-input-sequence)
   - 12.4 [Combinatoric iterators](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.4-Combinatoric-iterators)
+  
 
 <img src="https://numpy.org/_static/numpy_logo.png" alt="Smiley face" align="center">
 
