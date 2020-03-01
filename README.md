@@ -192,10 +192,9 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.55 [Excel File Merge Multi Tab Tahir Output](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/ExcelFileMergeMultiTabTahirOutput.html)
   - 11.56 [Add Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/AdditionalPandasNotes0.html)
   - 11.57 [Audit Old Tech](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/2nd_generation_Audit_method.html)
+  - [Code-1: Cell File: CSV - Date and Time in Different Column, Cluster File: CSV - Date and Time in Same Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-01.html)
   
-  - [Code-1](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-01.html)
-  - Cell File: CSV - Date and Time in Different Column
-  - Cluster File: CSV - Date and Time in Same Column
+  
 
     
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
