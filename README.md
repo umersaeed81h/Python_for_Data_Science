@@ -193,9 +193,21 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 11.56 [Add Notes](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/AdditionalPandasNotes0.html)
   - 11.57 [Audit Old Tech](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/2nd_generation_Audit_method.html)
   - [Code-1: Cell File: CSV - Date and Time in Different Column, Cluster File: CSV - Date and Time in Same Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-01.html)
-  
-  
-
+  - [Code-2: Cell File: CSV - Date and Time in Same Column, Cluster File: CSV - Date and Time in Different Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-02.html)
+  - [Code-3, Cell File: CSV - Date and Time in Different Column,Cluster File: xlsx - Date and Time in Different Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-03.html)
+ - [Code-4:Cell File: xlsx - Date and Time in Different Column,Cluster File: csv - Date and Time in Different Column ](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-04.html)
+ - [Code-5:Cell File: CSV - Date and Time in Different Column,Cluster File: CSV - Date and Time in Different Column ](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-05.html)
+ - [Code-6:Cell File: xlsx - Date and Time in Different Column, Cluster File: xlsx - Date and Time in Different Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-06.html)
+ - [Code-7:Cell File: csv - Date and Time in Same Column, Cluster File: csv - Date and Time in Same Column](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-07.html)
+ - [Code-8: Cell File: xlsx - Date and Time in Same Column, Cluster File: xlsx - Date and Time in Same Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-08.html)
+ - [Code-9: Cell File: xlsx - Date and Time in Different Column,Cluster File: xlsx - Date and Time in Same Colum ](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-09.html)
+ - [Code-10:Cell File: xlsx - Date and Time in Same Column,Cluster File: xlsx - Date and Time in Different Colum ](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-10.html)
+- [Code-11:Cell File: csv - Date and Time in Same Column,Cluster File: xlsx - Date and Time in Same Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-11.html)
+- [Code-12: Cell File: xlsx - Date and Time in Same Column, Cluster File: csv - Date and Time in Same Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-12.html)
+- [Code-13: Cell File: csv - Date and Time in Different Column, Cluster File: xlsx - Date and Time in Same Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-13.html)
+- [Code-14: Cell File: csv - Date and Time in Same Column, Cluster File: xlsx - Date and Time in Different Colum ](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-14.html)
+- [Code-15: Cell File: xlsx - Date and Time in Different Column, Cluster File: csv - Date and Time in Same Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-15.html)
+- [Code-16: Cell File: xlsx - Date and Time in Same Column, Cluster File: csv - Date and Time in Different Colum](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-16.html)
     
 - [**Chapter 12: Python itertools**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html)
   - 12.1 [Import Python Library](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-3_V0.html#12.1-Import-Python-Library)
