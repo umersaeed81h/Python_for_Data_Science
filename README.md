@@ -233,19 +233,19 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - Cell File: xlsx - Date and Time in Same Column
   - Cluster File: xlsx - Date and Time in Different Colum
 
-  - [Code-11]((http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-11.html)
+  - [Code-11](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-11.html)
   - Cell File: csv - Date and Time in Same Column
   - Cluster File: xlsx - Date and Time in Same Colum
 
-  - [Code-12]((http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-12.html)
+  - [Code-12](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-12.html)
   - Cell File: xlsx - Date and Time in Same Column
   - Cluster File: csv - Date and Time in Same Colum
 
-  - [Code-13]((http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-13.html)
+  - [Code-13](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-13.html)
   - Cell File: csv - Date and Time in Different Column
   - Cluster File: xlsx - Date and Time in Same Colum
 
-  - [Code-14]((http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-14.html)
+  - [Code-14](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Code-14.html)
   - Cell File: csv - Date and Time in Same Column
   - Cluster File: xlsx - Date and Time in Different Colum
 
