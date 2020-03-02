@@ -240,14 +240,14 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
 
 
 
- - http://htmlpreview.github.io/ 
- - https://bitly.com/
-- https://www.youtube.com/watch?v=-HjLd_3ahCw
-- https://github.com/modin-project/modin
+ -  http://htmlpreview.github.io/ 
+ -  https://bitly.com/
+ -  https://www.youtube.com/watch?v=-HjLd_3ahCw
+ -  https://github.com/modin-project/modin
 
 
 
 
 
-- [Download Data Set](https://github.com/umersaeed81h/cc/archive/master.zip)
+
 
