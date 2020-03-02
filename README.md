@@ -28,7 +28,20 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
 
  <img src="https://www.python.org/static/img/python-logo.png" alt="Smiley face" align="center">
 
-<button type="button">Click Me!</button>
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
 
 - [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#Chapter-1:-Introduction-to-Python)
 
