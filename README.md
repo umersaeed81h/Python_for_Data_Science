@@ -28,9 +28,7 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
 
  <img src="https://www.python.org/static/img/python-logo.png" alt="Smiley face" align="center">
 
-<a href="/images/myw3schoolsimage.jpg" download>
-  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
-</a>
+<a href="https://github.com/umersaeed81h/cc/archive/master.zip" download="proposed_file_name">Download</a>
 
 - [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#Chapter-1:-Introduction-to-Python)
 
