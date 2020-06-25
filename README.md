@@ -138,7 +138,7 @@ Finally, I would like to thank my father [**Muhammad Hafeez Ahmed**](), my mothe
   - 10.6 [Special functions](https://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-1_V0.html#10.6-Special-functions)
 
 
-<img src="https://pandas.pydata.org/_static/pandas_logo.png" alt="Smiley face" align="center">
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Smiley face" align="center">
 
 - [**Chapter 11: Data Frame in Python**](http://htmlpreview.github.io/?https://github.com/umersaeed81h/Python_for_Data_Science/blob/master/Python_for_Data_Science_Volume-2_V0.html)
 
